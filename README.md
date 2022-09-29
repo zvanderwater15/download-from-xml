@@ -1,0 +1,1 @@
+Quick Ruby script that downloads from a set of URLs found in an XML file.
